@@ -1,0 +1,4 @@
+technology,range_m,illustrative_throughput_mbps,power_class
+Bluetooth BLE,10,1,Low
+Wi-Fi,75,100,Medium
+WiMAX,5000,20,High
